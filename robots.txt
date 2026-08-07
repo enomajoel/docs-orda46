@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-wpnj6v.lapinandwolf.co.nz/sitemap.xml
